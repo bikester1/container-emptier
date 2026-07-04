@@ -2,7 +2,7 @@
 
 A Factorio mod that lets you flag an **entire container** — or anything else with an inventory — to be emptied by the logistics network in one drag, instead of right-clicking every stack individually.
 
-![Mod icon](container_emptier_tool.png)
+![Mod icon](container_emptier_mod_thumbnail.png)
 
 ## What it does
 
