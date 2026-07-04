@@ -50,3 +50,7 @@ There is no per-tick logic and no persistent state — everything happens at sel
 
 - Flagging a machine that's actively being fed (e.g. an assembler with inserters supplying it) means bots and inserters will fight over the contents. That's inherent to "empty everything" — alt-drag to cancel.
 - The removal plan is a snapshot: items produced *after* you drag aren't included. Drag again to re-flag with fresh contents.
+
+## License
+
+[MIT](LICENSE)
