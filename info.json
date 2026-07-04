@@ -1,0 +1,9 @@
+{
+  "name": "container-emptier",
+  "version": "1.0.0",
+  "title": "Container Emptier",
+  "author": "bikester1",
+  "factorio_version": "2.1",
+  "description": "Adds a selection tool to flag entire containers for pickup by the logistics network, instead of right-clicking each stack. Drag to empty, alt-drag to cancel pending pickups.",
+  "dependencies": ["base >= 2.1"]
+}
